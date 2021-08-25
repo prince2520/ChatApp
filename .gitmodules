@@ -1,3 +1,6 @@
 [submodule "ChatApp-Client"]
 	path = ChatApp-Client
 	url = https://github.com/prince2520/ChatApp-Client.git
+[submodule "ChatApp-Server"]
+	path = ChatApp-Server
+	url = https://github.com/prince2520/ChatApp-Server.git
