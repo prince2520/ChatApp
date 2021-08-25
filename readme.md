@@ -1,8 +1,9 @@
 # ChatApp
+[Visit Website](https://chatapp-cli.herokuapp.com/)
 
 Realtime chat application used to chat with your friend😊 
 
-![chatapp](https://user-images.githubusercontent.com/68547999/130778153-27d3b654-525c-44df-9cb5-ad0d04757a03.gif);
+![chatapp](https://user-images.githubusercontent.com/68547999/130778153-27d3b654-525c-44df-9cb5-ad0d04757a03.gif)
 
 ## Feature
 1. Applied the JSON Web Token for authentication to allow user to signup and login
