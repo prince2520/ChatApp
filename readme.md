@@ -7,7 +7,7 @@ Realtime chat application used to chat with your friend
 
 ## Feature
 1. Applied the JSON Web Token for authentication to allow user to signup and login
-3. Uses the MVC approach to save message, groupmessage and user data
+3. Uses the MVC approach to save message, groupmessage and user data in mongodb database
 4. Added the emoji functionality using emoji mart library
 5. User can create , join group and chat personally
 6. User can Save Images of profile and group
