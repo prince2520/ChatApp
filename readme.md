@@ -9,6 +9,7 @@ Realtime chat application used to chat with your friend😊
 2. Uses the MVC approach to save message, groupmessage and user data
 3. Added the emoji functionality using emoji mart library
 4. User can create , join group and chat personally
+5. User can Save Images of profile and group
 
 ## Technologies Used 
 - React (For frontend)
