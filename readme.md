@@ -3,7 +3,7 @@
 
 Realtime chat application used to chat with your friend 
 
-![chatapp](https://user-images.githubusercontent.com/68547999/130778153-27d3b654-525c-44df-9cb5-ad0d04757a03.gif)
+![chatapp3](https://user-images.githubusercontent.com/68547999/130803136-f3dde0d6-6ff5-4071-a786-65b29b124feb.gif)
 
 ## Feature
 1. Applied the JSON Web Token for authentication to allow user to signup and login
