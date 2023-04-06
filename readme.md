@@ -1,5 +1,4 @@
 # ChatApp
-[Visit Website](https://chatapp-cli.herokuapp.com/)
 
 Realtime chat application used to chat with your friend 
 
